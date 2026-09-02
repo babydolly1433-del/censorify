@@ -1,0 +1,21 @@
+{
+    "author": "brad dayley",
+    "name": "censorify-r",
+    "version": "0.1.1",
+    "description": "censors words out of text",
+    "main": "censortext",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pricillaranjani2007-star"
+    },
+    "keywords": [
+        "censor",
+        "words"
+    ],
+    "dependencies": {
+        "censorify": "^0.1.1"
+    },
+    "engines": {
+        "node": "*"
+    }
+}
